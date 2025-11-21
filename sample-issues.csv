@@ -1,0 +1,4 @@
+Title,Description,Priority
+"Fix login bug","Users cannot login with Google auth",1
+"Update homepage copy","Marketing team requested new headers",3
+"Refactor backend API","Clean up the user controller",2
