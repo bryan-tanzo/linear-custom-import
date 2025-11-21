@@ -59,3 +59,4 @@ Title,Description,Priority
 ## Project Files
 - `linear-custom-import.js` — the importer script.
 - `sample-issues.csv` — starter CSV you can copy and edit for your data.
+- `LICENSE` — MIT License.
